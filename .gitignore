@@ -145,3 +145,6 @@ sonarqube/data
 sonarqube/logs
 
 .terraform
+
+# Ignore all .DS_Store files
+.DS_Store
